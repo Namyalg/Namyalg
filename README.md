@@ -11,6 +11,8 @@
 - ⚡ Fun fact: I'm a half-marathoner
 
 ![Namya's github stats](https://github-readme-stats.vercel.app/api?username=Namyalg&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=Namyalg&label=PROFILE+VIEWS)
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
