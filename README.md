@@ -7,7 +7,7 @@ Hi there, I am Namya LG. I study in RVCE. I love working on new project ideas �
 - 🔭 I’m currently working on REMO
 - 🌱 I’m currently learning Full-Stack Web Development
 - 📫 How to reach me: 
-        ![](https://www.linkedin.com/in/namyalg/)
+        LinkedIn![](https://www.linkedin.com/in/namyalg/)
 - 😄 Pronouns: She/Her
 - 💬 Ask me about Python🐍
 - ⚡ Fun fact: I'm a half-marathoner
