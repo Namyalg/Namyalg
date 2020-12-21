@@ -8,7 +8,6 @@ I am Namya LG. I study in RVCE. I love working on new project ideas ✨
 - 🌱 I’m currently learning Full-Stack Web Development
 - 📫 How to reach me: https://www.linkedin.com/in/namyalg/
 - 😄 Pronouns: She/Her
-- 💬 Ask me about Python🐍
 - ⚡ Fun fact: I'm a half-marathoner
 
 ![Namya's github stats](https://github-readme-stats.vercel.app/api?username=Namyalg&show_icons=true&theme=radical)
