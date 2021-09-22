@@ -10,10 +10,13 @@ I am Namya LG. I study in RVCE. I love working on new project ideas ✨
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a half-marathoner
 - Follow my developer journey @ https://namyalg.medium.com/
-![Namya's github stats](https://github-readme-stats.vercel.app/api?username=Namyalg&show_icons=true&theme=radical)
+
+
 
 
 <!--- 
+![Namya's github stats](https://github-readme-stats.vercel.app/api?username=Namyalg&show_icons=true&theme=radical)
+
 ![](https://komarev.com/ghpvc/?username=Namyalg&label=PROFILE+VIEWS)
 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
