@@ -4,8 +4,7 @@
 **Namyalg/Namyalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I am Namya LG. I study in RVCE. I love working on new project ideas ✨
-- 🔭 I’m currently working on REMO
-- 🌱 I’m currently learning Full-Stack Web Development
+- 🔭 I’m currently contributing to open source projects and learning good Software Engineering Practices
 - 📫 How to reach me: https://www.linkedin.com/in/namyalg/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a half-marathoner
