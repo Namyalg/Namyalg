@@ -5,7 +5,6 @@
 -->
 I am Namya LG. I study in RVCE. I love working on new project ideas ✨
 - 🔭 I’m currently contributing to open source projects and learning good Software Engineering Practices
-- 📫 How to reach me: https://www.linkedin.com/in/namyalg/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a half-marathoner
 - Follow my developer journey @ https://namyalg.medium.com/
@@ -15,7 +14,7 @@ I am Namya LG. I study in RVCE. I love working on new project ideas ✨
 
 <!--- 
 ![Namya's github stats](https://github-readme-stats.vercel.app/api?username=Namyalg&show_icons=true&theme=radical)
-
+- 📫 How to reach me: https://www.linkedin.com/in/namyalg/
 ![](https://komarev.com/ghpvc/?username=Namyalg&label=PROFILE+VIEWS)
 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
